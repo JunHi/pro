@@ -1,0 +1,16 @@
+/app/cms
+/app/mocms
+/app/test
+/.idea
+/.vscode
+/.DS_Store
+*.log
+.env
+/addons
+/runtime
+#/vendor
+/public/static/addons
+/public/static/cms
+/public/static/mocms
+/public/static/storage
+/auto_install.json
